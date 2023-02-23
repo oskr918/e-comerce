@@ -1,0 +1,95 @@
+[
+    {
+        "id": "cocina-01",
+        "titulo": "Cocina 01",
+        "imagen": "./img/cocinas/01.webp",
+        "categoria": {
+            "nombre": "cocinas",
+            "id": "cocinas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "cocina-02",
+        "titulo": "Cocina 02",
+        "imagen": "./img/cocinas/02.jpg",
+        "categoria": {
+            "nombre": "cocinas",
+            "id": "cocinas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "cocina-03",
+        "titulo": "Cocina 03",
+        "imagen": "./img/cocinas/03.webp",
+        "categoria": {
+            "nombre": "cocinas",
+            "id": "cocinas"
+        },
+        "precio": 1000
+    },
+    
+
+    {
+        "id": "placar-02",
+        "titulo": "Placar 02",
+        "imagen": "./img/placares/03.jpg",
+        "categoria": {
+            "nombre": "placares",
+            "id": "placares"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "placar-03",
+        "titulo": "Placar 03",
+        "imagen": "./img/placares/04.jpg",
+        "categoria": {
+            "nombre": "placares",
+            "id": "placares"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "rack-01",
+        "titulo": "Rack 01",
+        "imagen": "./img/muebletv/01.jpg",
+        "categoria": {
+            "nombre": "rack",
+            "id": "rack"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "rack-02",
+        "titulo": "Rack 02",
+        "imagen": "./img/muebletv/02.jpg",
+        "categoria": {
+            "nombre": "rack",
+            "id": "rack"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "rack-03",
+        "titulo": "Rack 03",
+        "imagen": "./img/muebletv/03.jpg",
+        "categoria": {
+            "nombre": "rack",
+            "id": "rack"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "rack-04",
+        "titulo": "Rack 04",
+        "imagen": "./img/muebletv/04.jpg",
+        "categoria": {
+            "nombre": "rack",
+            "id": "rack"
+        },
+        "precio": 1000
+    }
+   
+]
